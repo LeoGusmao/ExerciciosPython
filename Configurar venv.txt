@@ -1,0 +1,11 @@
+
+Iniciar
+Na pasta desejada executar
+python -m venv venv
+
+Se der erro, para liberar
+No powershell executar: 
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+Ativar:
+.\venv\Scripts\Activate.ps1
